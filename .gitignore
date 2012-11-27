@@ -15,3 +15,8 @@
 *.exe
 *.out
 *.app
+
+#resource
+resource
+*.d
+hackacam_helloworld
