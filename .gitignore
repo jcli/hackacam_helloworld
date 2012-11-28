@@ -20,3 +20,4 @@
 resource
 *.d
 hackacam_helloworld
+output.h264
